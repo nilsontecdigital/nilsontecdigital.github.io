@@ -2,9 +2,9 @@
 layout: post
 author: Nilsonlinux
 category: Conta digital
-title: Starter Post - Google Maps Embed
+title: Conta Digio
 tags: maps embeds
-image: /img/embed/map.png
+image: /img/blog/g.png
 ---
 
 You can embed Google maps using custom embed created for OpenTheme. 
