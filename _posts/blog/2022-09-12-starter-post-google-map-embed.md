@@ -1,7 +1,7 @@
 ---
 layout: post
-author: Manav Sehgal
-category: theme
+author: Nilsonlinux
+category: Conta digital
 title: Starter Post - Google Maps Embed
 tags: maps embeds
 image: /img/embed/map.png
