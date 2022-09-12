@@ -4,7 +4,7 @@ author: Nilsonlinux
 category: Conta digital
 title: Conta Digio
 tags: maps embeds
-image: /img/blog/g.png
+image: /img/blog/g.jpg
 ---
 
 You can embed Google maps using custom embed created for OpenTheme. 
